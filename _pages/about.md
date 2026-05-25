@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am 4th-year PhD Student at [MPI-SWS](https://www.mpi-sws.org/) under supervision of [Viktor Vafeiadis](https://people.mpi-sws.org/~viktor/). Area of my current research includes model checking, weak memory models, formal verification of concurrent programs.
+I am a 4th-year PhD student at [MPI-SWS](https://www.mpi-sws.org/) under supervision of Dr.[Viktor Vafeiadis](https://people.mpi-sws.org/~viktor/). Area of my current research includes model checking, weak memory models, formal verification of concurrent programs. Before I had an experience with compiler engineering, functional programming, type theory and low-level programming.
 
 Publications
 ======
